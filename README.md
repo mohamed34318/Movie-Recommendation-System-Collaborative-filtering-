@@ -1,7 +1,6 @@
-Here's a cleaned-up and properly formatted version of the `README.md` file using markdown, which should look good on GitHub without needing HTML:
+# Movie Recommendation System using Collaborative Filtering
 
 ```markdown
-# Movie Recommendation System using Collaborative Filtering
 
 This project demonstrates a movie recommendation system using collaborative filtering. The dataset used includes detailed information about the top 250 English movies from IMDB. The system recommends movies based on their similarity in terms of directors, genres, actors, and plot descriptions.
 
